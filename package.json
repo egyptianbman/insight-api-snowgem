@@ -69,8 +69,8 @@
   "bitcoreNode": "lib",
   "dependencies": {
     "async": "*",
-    "bitcore-lib-cpr": "cryptorescue/bitcore-lib-cpr",
-    "bitcore-message-cpr": "cryptorescue/bitcore-message-cpr",
+    "bitcore-lib-cpr": "cryptorescue-project/bitcore-lib-cpr",
+    "bitcore-message-cpr": "cryptorescue-project/bitcore-message-cpr",
     "body-parser": "^1.13.3",
     "compression": "^1.6.1",
     "lodash": "^2.4.1",
