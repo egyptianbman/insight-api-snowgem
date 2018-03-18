@@ -1,8 +1,8 @@
 {
-  "name": "insight-api-zen",
-  "description": "A Zcash blockchain REST and web socket API service for Bitcore Node.",
+  "name": "insight-api-cpr",
+  "description": "A CryptoRescue blockchain REST and web socket API service for Bitcore Node.",
   "version": "0.4.3",
-  "repository": "git://github.com/aayanl/insight-api-zen.git",
+  "repository": "git://github.com/cryptorescue-project/insight-api-cpr.git",
   "contributors": [
     {
       "name": "Gustavo Cortez",
@@ -39,18 +39,22 @@
     {
       "name": "Jack Grigg",
       "email": "jack@z.cash"
+    },
+    {
+      "name": "Tyler Sweeney",
+      "email": "mafalate@cryptorescue.org"
     }
   ],
   "bugs": {
-    "url": "https://github.com/aayanl/insight-api-zen/issues"
+    "url": "https://github.com/cryptorescue-project/insight-api-cpr/issues"
   },
-  "homepage": "https://github.com/aayanl/insight-api-zen",
+  "homepage": "https://github.com/cryptorescue-project/insight-api-cpr",
   "license": "MIT",
   "keywords": [
     "insight",
     "insight api",
     "blockchain",
-    "zen api",
+    "cpr api",
     "blockchain api",
     "json",
     "bitcore"
@@ -65,8 +69,8 @@
   "bitcoreNode": "lib",
   "dependencies": {
     "async": "*",
-    "bitcore-lib-zen": "aayanl/bitcore-lib-zen",
-    "bitcore-message-zen": "aayanl/bitcore-message-zen",
+    "bitcore-lib-cpr": "cryptorescue/bitcore-lib-cpr",
+    "bitcore-message-cpr": "cryptorescue/bitcore-message-cpr",
     "body-parser": "^1.13.3",
     "compression": "^1.6.1",
     "lodash": "^2.4.1",
