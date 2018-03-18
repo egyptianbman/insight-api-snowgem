@@ -1,9 +1,24 @@
 [
   {
-    "poolName": "Bitfly",
-    "url": "https://zen.flypool.org/",
+    "poolName": "anyone using z-nomp",
+    "url": "https://github.com/z-classic/z-nomp/",
     "searchStrings": [
-      "/flypool/"
+      "Z-NOMP! https://github.com/joshuayabut/z-nomp"
+    ]
+  },
+  {
+    "poolName": "Anyone using equihash-solomining!",
+    "url": "https://github.com/aayanl/equihash-solomining",
+    "searchStrings": [
+      "EquihashSolominer!-github.com/aayanl/equihash-solomining"
+    ]
+  },
+
+  {
+    "poolName": "CPR Official Pool",
+    "url": "http://pool.cryptorescue.org",
+    "searchStrings": [
+      "cryptorescue.org - http://pool.cryptorescue.org"
     ]
   },
   {
@@ -11,20 +26,6 @@
     "url": "",
     "searchStrings": [
       "/NaN"
-    ]
-  },
-  {
-    "poolName": "Stratum",
-    "url": "",
-    "searchStrings": [
-      "/nodeStratum/"
-    ]
-  },
-  {
-    "poolName": "Zmine",
-    "url": "https://zmine.io/",
-    "searchStrings": [
-      "{ZMINE.IO}"
     ]
   }
 ]
