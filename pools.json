@@ -49,6 +49,27 @@
 	  ]
 	},
 	{
+		"poolName": "Equipool Asia",
+		"url": "https://equipool.1ds.us/getting_started",
+		"searchStrings": [
+			"Equipool Asia"
+		]
+	},
+	{
+		"poolName": "Equipool Europe",
+		"url": "https://equipool.1ds.us/getting_started",
+		"searchStrings": [
+			"Equipool Europe"
+		]
+	},
+	{
+		"poolName": "Equipool North America",
+		"url": "https://equipool.1ds.us/getting_started",
+		"searchStrings": [
+			"Equipool North America"
+		]
+	},
+	{
 		"poolName": "Windfall mining",
 		"url": "https://www.windfallmining.com/",
 		"searchStrings": [
